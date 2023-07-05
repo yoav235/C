@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/C.dir/ex0/hello_world.c.o  -o C 
